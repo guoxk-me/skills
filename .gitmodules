@@ -64,3 +64,6 @@
 [submodule "vendor/squirrelscan"]
 	path = vendor/squirrelscan
 	url = https://github.com/squirrelscan/skills
+[submodule "vendor/antfu"]
+	path = vendor/antfu
+	url = https://github.com/antfu/skills

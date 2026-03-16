@@ -148,11 +148,15 @@ export const vendors: Record<string, VendorSkillMeta> = {
       'audit-website': 'audit-website',
     },
   },
+  'antfu': {
+    source: 'https://github.com/antfu/skills',
+    skills: {
+      antfu: 'antfu',
+    },
+  },
 }
 
 /**
- * Hand-written skills with Anthony Fu's preferences/tastes/recommendations
+ * Legacy: kept for CLI compatibility
  */
-export const manual = [
-  'antfu',
-]
+export const manual: string[] = []

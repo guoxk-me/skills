@@ -149,11 +149,11 @@ React 和 Next.js 开发 Skills。
 | [audit-website](skills/audit-website) | 网站审计 | [squirrelscan/skills](https://github.com/squirrelscan/skills) |
 | [web-artifacts-builder](skills/web-artifacts-builder) | 构建 Web 产物 | [anthropics/skills](https://github.com/anthropics/skills) |
 
-### 手动维护的首选项
+### 来自 antfu/skills
 
-| Skill | 描述 |
-|-------|------|
-| [antfu](skills/antfu) | Anthony Fu 的工具偏好与最佳实践 |
+| Skill | 描述 | 来源 |
+|-------|------|------|
+| [antfu](skills/antfu) | Anthony Fu 的工具偏好与最佳实践 | [antfu/skills](https://github.com/antfu/skills) |
 
 ## 使用方法
 

@@ -149,11 +149,11 @@ Skills for marketing and content creation.
 | [audit-website](skills/audit-website) | Website auditing | [squirrelscan/skills](https://github.com/squirrelscan/skills) |
 | [web-artifacts-builder](skills/web-artifacts-builder) | Building web artifacts | [anthropics/skills](https://github.com/anthropics/skills) |
 
-### Hand-written Preferences
+### From antfu/skills
 
-| Skill | Description |
-|-------|-------------|
-| [antfu](skills/antfu) | Anthony Fu's tool preferences and best practices |
+| Skill | Description | Source |
+|-------|-------------|--------|
+| [antfu](skills/antfu) | Anthony Fu's tool preferences and best practices | [antfu/skills](https://github.com/antfu/skills) |
 
 ## Usage
 
