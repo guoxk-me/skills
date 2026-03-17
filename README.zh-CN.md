@@ -1,4 +1,5 @@
 # guoxk 的 Skills 集合
+[English](./README.md)
 
 精选的 [Agent Skills](https://agentskills.io/home) 集合，涵盖 AI/Agent 框架、前端开发、Vue 生态以及开发者效率工具的最佳实践。
 
