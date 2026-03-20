@@ -1,4 +1,6 @@
 # guoxk's Skills
+
+Forked from [antfu/skills](https://github.com/antfu/skills) with customizations.
 [简体中文](./README.zh-CN.md)
 
 A curated collection of [Agent Skills](https://agentskills.io/home) for software development, featuring best practices from AI/Agent frameworks, frontend development, Vue ecosystem, and developer productivity tools.

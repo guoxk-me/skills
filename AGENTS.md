@@ -1,6 +1,6 @@
 # Skills Generator
 
-Generate [Agent Skills](https://agentskills.io/home) from project documentation.
+Forked from [antfu/skills](https://github.com/antfu/skills) - A tool for generating Agent Skills from project documentation.
 
 ## Commands
 
