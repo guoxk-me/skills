@@ -67,3 +67,6 @@
 [submodule "vendor/antfu"]
 	path = vendor/antfu
 	url = https://github.com/antfu/skills
+[submodule "vendor/minimax"]
+	path = vendor/minimax
+	url = https://github.com/MiniMax-AI/skills

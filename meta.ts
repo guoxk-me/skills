@@ -154,6 +154,22 @@ export const vendors: Record<string, VendorSkillMeta> = {
       antfu: 'antfu',
     },
   },
+  'minimax': {
+    official: true,
+    source: 'https://github.com/MiniMax-AI/skills',
+    skills: {
+      'android-native-dev': 'android-native-dev',
+      'frontend-dev': 'frontend-dev',
+      'fullstack-dev': 'fullstack-dev',
+      'gif-sticker-maker': 'gif-sticker-maker',
+      'ios-application-dev': 'ios-application-dev',
+      'minimax-docx': 'minimax-docx',
+      'minimax-pdf': 'minimax-pdf',
+      'minimax-xlsx': 'minimax-xlsx',
+      'pptx-generator': 'pptx-generator',
+      'shader-dev': 'shader-dev',
+    },
+  },
 }
 
 /**
