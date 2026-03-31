@@ -1,5 +1,5 @@
 # Sync Info
 
 - **Source:** `vendor/vercel-labs/skills/web-design-guidelines`
-- **Git SHA:** `9aec8ee6aaf702e49312a071e672f1c1b7b7e948`
-- **Synced:** 2026-03-23
+- **Git SHA:** `6f3fa3191d089d7810e332a562ad2a0ff5f7f239`
+- **Synced:** 2026-03-31
