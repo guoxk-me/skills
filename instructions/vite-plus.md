@@ -1,0 +1,5 @@
+- Prefer `vite.config.ts` as the single configuration surface.
+- Focus on the unified CLI surface around `vp` commands instead of repeating upstream tool docs.
+- Emphasize the distinction between built-in commands like `vp build` / `vp test` and `vp run <script>`.
+- Cover monorepo task running, caching, migration, CI, and staged-file workflows.
+- Keep install and marketing content minimal; prioritize workflows and configuration agents can apply directly.

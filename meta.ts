@@ -11,6 +11,7 @@ export const submodules = {
   vue: 'https://github.com/vuejs/docs',
   nuxt: 'https://github.com/nuxt/nuxt',
   vite: 'https://github.com/vitejs/vite',
+  'vite-plus': 'https://github.com/voidzero-dev/vite-plus',
   unocss: 'https://github.com/unocss/unocss',
   pnpm: 'https://github.com/pnpm/pnpm.io',
   pinia: 'https://github.com/vuejs/pinia',
